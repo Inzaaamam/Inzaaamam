@@ -39,4 +39,4 @@
 ⭐️ From [Inzamam ul Haq]( https://github.com/Inzaaamam)
 <br>
 
-📫 From [Contact No: ]( +923239800375)
+📫 From [Contact No: ](https://wa.me/message/L4SWZVYJ7VIGD1)
