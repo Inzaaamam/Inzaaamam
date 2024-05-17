@@ -1,9 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zainnaqvi">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img height="70" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;T This+is+Inzamam+ul-Haq..;Nice+to+meet+you!&center=true&size=28">
-  </a>
+  </a> </h1>
+  
 <h1 align="center">Hi 👋, I'm Inzamam Ul Haq</h1>
 <h3>- 🔭 I’m currently working on Flutter </h3>
 <h3>- 💬 Ask me anything about Flutter </h3>
