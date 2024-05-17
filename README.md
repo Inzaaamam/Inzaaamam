@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inzamam Ul Haq</h1>
 <h3>- 🔭 I’m currently working on Flutter </h3>
 <h3>- 💬 Ask me anything about Flutter </h3>
-<h3>- 📫 How to reach me: inzaaamam@gmail.com</h3>
+<h3>- 📫 How to reach me: <a href = "gmail">inzaaamam@gmail.com</a> </h3>
 <h3>- ⚡ Fun fact: I'm comming to teen</h3>
   
 ### Connect with me:
